@@ -5,7 +5,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="msg-container">
-          <h1>Buenos dias manitos</h1>
+          <h1>Buscador CEP</h1>
+        </div>
+        <div>
+        <input type="text" placeholder="Digite o CEP" className='text-input-container' />
+        <button className='btn-container'>Buscar</button>
+
         </div>
       </header>
     </div>

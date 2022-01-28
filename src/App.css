@@ -46,3 +46,20 @@
   padding-left: 20px;
   padding-right: 20px;
 }
+
+.text-input-container {
+  background-color: #414141;
+  color: white;
+  border: 2px solid gray;
+  padding-right: 20px;
+}
+
+.btn-container {
+  color: white;
+  background-color: gray;
+  ;
+}
+
+.buscador-container {
+  
+}
